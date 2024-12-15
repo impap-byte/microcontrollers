@@ -1,3 +1,7 @@
+//A Pomodoro timer project I use to make my studying sessions more efficient. The project uses Arduino Nano as its microcontroller. The display has 4 digits 
+,7 segments.
+
+
 #include "SevSeg.h"
 
 SevSeg sevseg; //Instantiate a seven segment controller object
