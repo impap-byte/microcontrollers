@@ -5,4 +5,4 @@
 ![Pomodoro Timer](images/POMODOROTIMER.jpg)
 ---
 ### Rain Intensity Detector
-![Rain Detectore](images/raindetector1.jpg)
+![Rain Detector](images/raindetector1.jpg)
